@@ -494,7 +494,6 @@ class ImageProcessor:
         if self.imagen_procesada:
             formatos = [
                 ("PNG", "*.png"),
-                ("JPEG", "*.jpg"),
                 ("BMP", "*.bmp"),
                 ("TIFF", "*.tif"),
                 ("Todos los archivos", "*.*")
