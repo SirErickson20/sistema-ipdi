@@ -16,7 +16,7 @@ class ImageProcessor:
         
     def setup_ui(self):
         # Configuración principal de la ventana
-        self.root.title("pppp aDigital de Imágenes")
+        self.root.title("Digital de Imágenes")
         self.root.geometry("1200x700")
         self.root.configure(bg="#0f1419")
         self.root.minsize(1000, 600)
