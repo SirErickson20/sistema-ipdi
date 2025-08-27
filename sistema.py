@@ -45,7 +45,7 @@ class ImageProcessor:
         
         title_label = tk.Label(
             header_frame,
-            text="🖼️ PROCESADOR DIGITAL DE IMÁGENES",
+            text="🖼️ PROCESADOR DIGITAL DE IMÁGENES 2025",
             font=("Segoe UI", 20, "bold"),
             bg="#1a1f29",
             fg="#64ffda"
